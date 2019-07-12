@@ -1,0 +1,17 @@
+{
+  "name": "bio-library",
+  "version": "1.0.0",
+  "description": "BIO26 Library",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Smeenk",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
