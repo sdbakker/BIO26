@@ -1,20 +1,29 @@
 <template>
-<div id="app">
-  <div class="bg" :style="{ 'background-color': tweenedColor }">
-    <img src="/library.jpg" :style="{ 'transform': 'scale(' + message / 255 + ')'}"/>
+  <div id="app">
+    <!-- <bg :color="tweenedCSSColor"/> -->
+    <div
+      class="bg"
+      :style="{ 'background-color': tweenedCSSColor }"
+    >
+      <img src="/library.jpg" :style="{ 'transform': 'scale(' + message / 254 + 1 + ')'}"/>
+    </div>
+
+    <div class="gui">
+      <input
+        v-model="colorQuery"
+        v-on:keyup.enter="updateColor"
+        placeholder="Enter a color"
+      >
+      <button v-on:click="updateColor">Update</button>
+      <p>{{ message }}</p>
+    </div>
+
   </div>
-
-
-  <div class="gui">
-    <input v-model="colorQuery" v-on:keyup.enter="updateColor" placeholder="Enter a color">
-    <button v-on:click="updateColor">Update</button>
-    <p>{{ message }}</p>
-  </div>
-
-</div>
 </template>
 
 <script>
+/* components */
+// import bg from './components/background-color.vue'
 /* plugins */
 import io from 'socket.io-client'
 import Color from 'color-js'
@@ -22,6 +31,9 @@ import TWEEN from '@tweenjs/tween.js'
 
 export default {
   name: 'app',
+  // components: {
+  //   bg,
+  // },
   data() {
     return {
       colorQuery: '',
@@ -33,7 +45,7 @@ export default {
       },
       tweenedColor: {},
       background: '#ff0000',
-      message: '',
+      message: 150,
       socket: io('localhost:3001'),
     }
   },
@@ -42,12 +54,12 @@ export default {
   },
   mounted() {
     this.socket.on('MESSAGE', (data) => {
-      this.message = data
+	   this.message = data
     })
   },
   watch: {
-    color: function() {
-      function animate() {
+    color: function () {
+      function animate () {
         if (TWEEN.update()) {
           requestAnimationFrame(animate)
         }
@@ -111,13 +123,13 @@ button {
 
 .bg {
   display: flex;
-  justify-content: center;
   height: 100%;
   min-height: 100%;
 }
 
-.bg >img {
+.bg > img {
   align-self: center;
+  mix-blend-mode: multiply;
 }
 
 .gui {
@@ -130,8 +142,8 @@ button {
   z-index: 2;
   background: white;
   /* shadow */
-  -webkit-box-shadow: -1px 5px 15px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: -1px 5px 15px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: -1px 5px 15px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: -1px 5px 15px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: -1px 5px 15px 0px rgba(0,0,0,0.5);
+  box-shadow: -1px 5px 15px 0px rgba(0,0,0,0.5);
 }
 </style>
