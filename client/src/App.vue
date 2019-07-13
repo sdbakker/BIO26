@@ -39,7 +39,7 @@ export default {
       },
       tweenedColor: {},
       background: '#ff0000',
-      message: 'button not pressed',
+      message: '',
       socket: io('localhost:3001'),
     }
   },
@@ -47,12 +47,8 @@ export default {
     this.tweenedColor = Object.assign({}, this.color)
   },
   mounted() {
-    this.socket.on('MESSAGE', () => {
-      if (this.message.includes('not')) {
-        this.message = 'button pressed'
-      } else {
-        this.message = 'button not pressed'
-      }
+    this.socket.on('MESSAGE', (data) => {
+	   this.message = data
     })
   },
   watch: {
@@ -76,7 +72,7 @@ export default {
         red: this.tweenedColor.red,
         green: this.tweenedColor.green,
         blue: this.tweenedColor.blue,
-        alpha: this.tweenedColor.alpha,
+        alpha: this.message / 255.0,
       }).toCSS()
     }
   },
