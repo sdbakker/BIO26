@@ -1,6 +1,6 @@
-
 <template>
   <div id="app">
+    {{ message }}
   </div>
 </template>
 
@@ -11,8 +11,18 @@ export default {
   name: 'app',
   data() {
     return {
-      socket : io('localhost:3001')
+      message: 'hello from client',
+      socket : io('localhost:3001'),
     }
+  },
+  mounted() {
+    this.socket.on('MESSAGE', (data) => {
+      if (this.message.includes('button')) {
+      	this.message = 'hello from client'
+      } else {
+			this.message = 'hello from button'      
+      }
+    })
   }
 }
 </script>
