@@ -1,7 +1,7 @@
 <template>
 <div id="app">
   <div class="bg" :style="{ 'background-color': tweenedColor }">
-    <img src="/library.jpg" :style="{ 'transform': 'scale(' + message + ')'}"/>
+    <img src="/library.jpg" :style="{ 'transform': 'scale(' + message / 255 + ')'}"/>
   </div>
 
 
