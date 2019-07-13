@@ -1,23 +1,20 @@
 <template>
-  <div id="app">
-    <bg :color="tweenedCSSColor"/>
-
-    <div class="gui">
-      <input
-        v-model="colorQuery"
-        v-on:keyup.enter="updateColor"
-        placeholder="Enter a color"
-      >
-      <button v-on:click="updateColor">Update</button>
-      <p>{{ message }}</p>
-    </div>
-
+<div id="app">
+  <div class="bg" :style="{ 'background-color': tweenedColor }">
+    <img src="/library.jpg" :style="{ 'transform': 'scale(' + message + ')'}"/>
   </div>
+
+
+  <div class="gui">
+    <input v-model="colorQuery" v-on:keyup.enter="updateColor" placeholder="Enter a color">
+    <button v-on:click="updateColor">Update</button>
+    <p>{{ message }}</p>
+  </div>
+
+</div>
 </template>
 
 <script>
-/* components */
-import bg from './components/background-color.vue'
 /* plugins */
 import io from 'socket.io-client'
 import Color from 'color-js'
@@ -25,9 +22,6 @@ import TWEEN from '@tweenjs/tween.js'
 
 export default {
   name: 'app',
-  components: {
-    bg,
-  },
   data() {
     return {
       colorQuery: '',
@@ -48,12 +42,12 @@ export default {
   },
   mounted() {
     this.socket.on('MESSAGE', (data) => {
-	   this.message = data
+      this.message = data
     })
   },
   watch: {
-    color: function () {
-      function animate () {
+    color: function() {
+      function animate() {
         if (TWEEN.update()) {
           requestAnimationFrame(animate)
         }
@@ -115,6 +109,17 @@ button {
   background: white;
 }
 
+.bg {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  min-height: 100%;
+}
+
+.bg >img {
+  align-self: center;
+}
+
 .gui {
   display: block;
   position: fixed;
@@ -125,8 +130,8 @@ button {
   z-index: 2;
   background: white;
   /* shadow */
-  -webkit-box-shadow: -1px 5px 15px 0px rgba(0,0,0,0.5);
-  -moz-box-shadow: -1px 5px 15px 0px rgba(0,0,0,0.5);
-  box-shadow: -1px 5px 15px 0px rgba(0,0,0,0.5);
+  -webkit-box-shadow: -1px 5px 15px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: -1px 5px 15px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: -1px 5px 15px 0px rgba(0, 0, 0, 0.5);
 }
 </style>
