@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=HALL_R1 Pin=J1-4
+Removed Pin From Net: NetName=HALL_R1 Pin=R2-1
+Added Component: Designator=C2(CAPC1608X87X35NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104K5RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608X87X35NL15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603X104K5RACTU"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC1608X55X30ML15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ102V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55X30ML15T15)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3GEYJ102V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DBV0005A_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Base Number"; Value = "74"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74ahc1g14.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. Q, 09/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Generic Number"; Value = "74AHC1G14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Case Style"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function Number"; Value = "741G14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic IC Base Number"; Value = "74114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic IC Family"; Value = "AHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic IC Function"; Value = "SingleInverterwithSchmittTrigger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Inverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Gates"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Inputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40°Cto+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current Max"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Pin Small Outline Transistor, Body 2.9 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DBV0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.ti.com/lit/ml/mpds018l/mpds018l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Range"; Value = "2Vto5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(19-Dec-2012)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U3(DBV0005A_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Base Number"; Value = "74"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74ahc1g14.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. Q, 09/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IC Generic Number"; Value = "74AHC1G14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Case Style"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Function Number"; Value = "741G14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic IC Base Number"; Value = "74114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic IC Family"; Value = "AHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic IC Function"; Value = "SingleInverterwithSchmittTrigger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Logic Type"; Value = "Inverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Gates"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Inputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-40°Cto+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current Max"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Pin Small Outline Transistor, Body 2.9 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "DBV0005A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.ti.com/lit/ml/mpds018l/mpds018l.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Max"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Min"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage Range"; Value = "2Vto5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "NoSVHC(19-Dec-2012)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Type"; Value = "SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=HALL_L16 Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=VCC Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-5
+Added Pin To Net: NetName=NetJ1_10 Pin=J1-10
+Added Pin To Net: NetName=NetJ1_10 Pin=R4-2
+Added Net: Name=NetJ1_10
+Added Pin To Net: NetName=NetJ1_12 Pin=J1-12
+Added Pin To Net: NetName=NetJ1_12 Pin=R3-2
+Added Net: Name=NetJ1_12
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U2-4
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U3-4
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=U_output Member=Component C2 0.1uF
+Added Member To Class: ClassName=U_output Member=Component C3 0.1uF
+Added Member To Class: ClassName=U_output Member=Component R3 1K
+Added Member To Class: ClassName=U_output Member=Component R4 1K
+Added Member To Class: ClassName=U_output Member=Component U2 SN74AHC1G14DBVR
+Added Member To Class: ClassName=U_output Member=Component U3 SN74AHC1G14DBVR

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=VIN Pin=P2-2
+Change Component DesignItemId : Designator=P2 Old DesignItemId=CMP-1502-00364-1 New DesignItemId=CMP-1502-01863-1
+Change Component Footprint: Designator=P2 Old Footprint=66200221022 New Footprint=691321300002
+Change Component Comment : Designator=P2 Old Comment=66200221022 New Comment=691321300002
+Change Component Description : Designator=P2 Old Description=THT Male Header WR-MPC3, with Snap-in Plastic Pegs, Right Angled, Dual Row, pitch 3 mm, 2 pins New Description=Serie 321 - 3.81mm Vertical PCB Header WR-TBL, 2 pin
+Change component parameters: Designator = "P2"; Footprint = "691321300002"; UniqueID = "\ZQAHZOQL\TVKVECQJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://katalog.we-online.de/em/datasheet/6913213000xx.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "691321300002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "691321300002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2

@@ -1,0 +1,69 @@
+Change Net Name : Old Net Name=GPIO13 New Net Name=IN29
+Change Net Name : Old Net Name=GPIO14 New Net Name=IN30
+Change Net Name : Old Net Name=GPIO15 New Net Name=IN31
+Change Net Name : Old Net Name=GPIO16 New Net Name=IN32
+Added Pin To Net: NetName=GPIO13 Pin=J1-G7
+Added Net: Name=GPIO13
+Added Pin To Net: NetName=GPIO14 Pin=J1-G8
+Added Net: Name=GPIO14
+Added Pin To Net: NetName=GPIO15 Pin=J1-H7
+Added Net: Name=GPIO15
+Added Pin To Net: NetName=GPIO16 Pin=J1-H8
+Added Net: Name=GPIO16
+Added Pin To Net: NetName=IN1 Pin=U3-4
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=U3-5
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=U3-6
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=U3-7
+Added Net: Name=IN4
+Added Pin To Net: NetName=IN5 Pin=U3-8
+Added Net: Name=IN5
+Added Pin To Net: NetName=IN6 Pin=U3-9
+Added Net: Name=IN6
+Added Pin To Net: NetName=IN7 Pin=U3-10
+Added Net: Name=IN7
+Added Pin To Net: NetName=IN8 Pin=U3-11
+Added Net: Name=IN8
+Added Pin To Net: NetName=IN9 Pin=U3-13
+Added Net: Name=IN9
+Added Pin To Net: NetName=IN10 Pin=U3-14
+Added Net: Name=IN10
+Added Pin To Net: NetName=IN11 Pin=U3-15
+Added Net: Name=IN11
+Added Pin To Net: NetName=IN12 Pin=U3-16
+Added Net: Name=IN12
+Added Pin To Net: NetName=IN13 Pin=U3-17
+Added Net: Name=IN13
+Added Pin To Net: NetName=IN14 Pin=U3-18
+Added Net: Name=IN14
+Added Pin To Net: NetName=IN15 Pin=U3-19
+Added Net: Name=IN15
+Added Pin To Net: NetName=IN16 Pin=U3-20
+Added Net: Name=IN16
+Added Pin To Net: NetName=IN17 Pin=U4-4
+Added Net: Name=IN17
+Added Pin To Net: NetName=IN18 Pin=U4-5
+Added Net: Name=IN18
+Added Pin To Net: NetName=IN19 Pin=U4-6
+Added Net: Name=IN19
+Added Pin To Net: NetName=IN20 Pin=U4-7
+Added Net: Name=IN20
+Added Pin To Net: NetName=IN21 Pin=U4-8
+Added Net: Name=IN21
+Added Pin To Net: NetName=IN22 Pin=U4-9
+Added Net: Name=IN22
+Added Pin To Net: NetName=IN23 Pin=U4-10
+Added Net: Name=IN23
+Added Pin To Net: NetName=IN24 Pin=U4-11
+Added Net: Name=IN24
+Added Pin To Net: NetName=IN25 Pin=U4-13
+Added Net: Name=IN25
+Added Pin To Net: NetName=IN26 Pin=U4-14
+Added Net: Name=IN26
+Added Pin To Net: NetName=IN27 Pin=U4-15
+Added Net: Name=IN27
+Added Pin To Net: NetName=IN28 Pin=U4-16
+Added Net: Name=IN28
+Added Class: Name=IN[1..24]

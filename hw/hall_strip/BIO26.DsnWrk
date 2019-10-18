@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=BIO26_hall_strip\BIO26_hall_strip.PrjPcb
+[Project2]
+ProjectPath=BIO26_hall_strip_mb\BIO26_hall_strip_mb.PrjMbd
+[Project3]
+ProjectPath=BIO26_sensor_connect\BIO26_sensor_connect.PrjPcb
+[Project4]
+ProjectPath=BIO26_pishield\BIO26_pishield.PrjPcb

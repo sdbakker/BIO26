@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetJ1_3 Pin=U1_HALL_L1-2
+Removed Pin From Net: NetName=NetJ1_4 Pin=U1_HALL_R17-2
+Change Net Name : Old Net Name=NetU1_HALL_L2_2 New Net Name=HALL_L2
+Change Net Name : Old Net Name=NetU1_HALL_L3_2 New Net Name=HALL_L3
+Change Net Name : Old Net Name=NetU1_HALL_L4_2 New Net Name=HALL_L4
+Change Net Name : Old Net Name=NetU1_HALL_L5_2 New Net Name=HALL_L5
+Change Net Name : Old Net Name=NetU1_HALL_L6_2 New Net Name=HALL_L6
+Change Net Name : Old Net Name=NetU1_HALL_L7_2 New Net Name=HALL_L7
+Change Net Name : Old Net Name=NetU1_HALL_L8_2 New Net Name=HALL_L8
+Change Net Name : Old Net Name=NetU1_HALL_L9_2 New Net Name=HALL_L9
+Change Net Name : Old Net Name=NetU1_HALL_L10_2 New Net Name=HALL_L10
+Change Net Name : Old Net Name=NetU1_HALL_L11_2 New Net Name=HALL_L11
+Change Net Name : Old Net Name=NetU1_HALL_L12_2 New Net Name=HALL_L12
+Change Net Name : Old Net Name=NetU1_HALL_L13_2 New Net Name=HALL_L13
+Change Net Name : Old Net Name=NetU1_HALL_L14_2 New Net Name=HALL_L14
+Change Net Name : Old Net Name=NetU1_HALL_L15_2 New Net Name=HALL_L15
+Change Net Name : Old Net Name=NetU1_HALL_L16_2 New Net Name=HALL_L16
+Change Net Name : Old Net Name=NetU1_HALL_R18_2 New Net Name=HALL_R2
+Change Net Name : Old Net Name=NetU1_HALL_R19_2 New Net Name=HALL_R3
+Change Net Name : Old Net Name=NetU1_HALL_R20_2 New Net Name=HALL_R4
+Change Net Name : Old Net Name=NetU1_HALL_R21_2 New Net Name=HALL_R5
+Change Net Name : Old Net Name=NetU1_HALL_R22_2 New Net Name=HALL_R6
+Change Net Name : Old Net Name=NetU1_HALL_R23_2 New Net Name=HALL_R7
+Change Net Name : Old Net Name=NetU1_HALL_R24_2 New Net Name=HALL_R8
+Change Net Name : Old Net Name=NetU1_HALL_R25_2 New Net Name=HALL_R9
+Change Net Name : Old Net Name=NetU1_HALL_R26_2 New Net Name=HALL_R10
+Change Net Name : Old Net Name=NetU1_HALL_R27_2 New Net Name=HALL_R11
+Change Net Name : Old Net Name=NetU1_HALL_R28_2 New Net Name=HALL_R12
+Change Net Name : Old Net Name=NetU1_HALL_R29_2 New Net Name=HALL_R13
+Change Net Name : Old Net Name=NetU1_HALL_R30_2 New Net Name=HALL_R14
+Change Net Name : Old Net Name=NetU1_HALL_R31_2 New Net Name=HALL_R15
+Change Net Name : Old Net Name=NetU1_HALL_R32_2 New Net Name=HALL_R16
+Added Pin To Net: NetName=HALL_L1 Pin=U1_HALL_L1-2
+Added Net: Name=HALL_L1
+Added Pin To Net: NetName=HALL_R1 Pin=U1_HALL_R17-2
+Added Net: Name=HALL_R1
+Added Class: Name=HALL_L[1..16]
+Added Class: Name=HALL_R[1..16]

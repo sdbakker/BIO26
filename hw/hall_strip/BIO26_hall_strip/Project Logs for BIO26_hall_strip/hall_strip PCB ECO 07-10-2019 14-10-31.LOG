@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=HALL_R1 Pin=J1-4
+Added Pin To Net: NetName=HALL_R1 Pin=R2-1
+Added Member To Class: ClassName=HALL_L[1..16] Member=Element[1]: HALL_L
+Added Member To Class: ClassName=HALL_L[1..16] Member=Element[2]: HALL_L

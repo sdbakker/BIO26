@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R17-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R17-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R18-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R18-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R19-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R19-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R20-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R20-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R21-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R21-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R22-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R22-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R23-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R23-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R24-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R24-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R25-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R25-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R26-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R26-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R27-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R27-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R28-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R28-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R29-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R29-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R30-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R30-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R31-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R31-2
+Removed Pin From Net: NetName=VCC Pin=C1_HALL_R32-1
+Removed Pin From Net: NetName=GND Pin=C1_HALL_R32-2
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=VCC Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=VCC Pin=J1-1
+Removed Pin From Net: NetName=VCC Pin=J1-2
+Removed Pin From Net: NetName=HALL_L16 Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=J1-9
+Removed Pin From Net: NetName=GND Pin=J1-11
+Removed Pin From Net: NetName=GND Pin=J1-S1
+Removed Pin From Net: NetName=GND Pin=J1-S2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R17-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R17-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R18-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R18-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R19-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R19-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R20-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R20-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R21-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R21-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R22-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R22-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R23-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R23-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R24-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R24-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R25-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R25-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R26-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R26-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R27-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R27-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R28-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R28-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R29-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R29-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R30-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R30-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R31-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R31-3
+Removed Pin From Net: NetName=VCC Pin=U1_HALL_R32-1
+Removed Pin From Net: NetName=GND Pin=U1_HALL_R32-3
+Removed Pin From Net: NetName=HALL_L16 Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=VCC Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=VCC Pin=U3-5
+Removed Member From Class: ClassName=U_output Member=C2
+Removed Member From Class: ClassName=U_output Member=C3
+Removed Member From Class: ClassName=U_output Member=J?
+Removed Member From Class: ClassName=U_output Member=R2
+Removed Member From Class: ClassName=U_output Member=R3
+Removed Member From Class: ClassName=U_output Member=R4
+Removed Member From Class: ClassName=U_output Member=U2
+Removed Member From Class: ClassName=U_output Member=U3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change component parameters: Designator = "J1"; Footprint = "68610614422"; UniqueID = "\QEBDKJIJ\CBWGLGYG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact Design"; Value = "BottomContact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/68610614422.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-25to85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68610614422"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "68610614422"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "125VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J2(68610614422)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Contact Design"; Value = "BottomContact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/68610614422.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-25to85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "68610614422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "68610614422"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "125VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=HALL_L16 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-MP1
+Added Pin To Net: NetName=GND Pin=J1-MP2
+Change Net Name : Old Net Name=HALL_L16 New Net Name=HALL16
+Added Class: Name=HALL[1..16]
+Added Member To Class: ClassName=U_output Member=Component J2 68610614422

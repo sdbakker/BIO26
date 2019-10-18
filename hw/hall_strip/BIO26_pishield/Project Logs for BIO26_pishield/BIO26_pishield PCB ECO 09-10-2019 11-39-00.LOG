@@ -1,0 +1,114 @@
+Change Component Footprint: Designator=Designator7 Old Footprint=9774060151 New Footprint=9774100151
+Change Component Footprint: Designator=Designator8 Old Footprint=9774060151 New Footprint=9774100151
+Change Component Footprint: Designator=Designator9 Old Footprint=9774060151 New Footprint=9774100151
+Change Component Footprint: Designator=Designator10 Old Footprint=9774060151 New Footprint=9774100151
+Change Component Comment : Designator=Designator2 Old Comment=Comment New Comment=615064243321
+Change Component Comment : Designator=Designator7 Old Comment=Comment New Comment=M2.5x10mm
+Change Component Comment : Designator=Designator8 Old Comment=Comment New Comment=M2.5x10mm
+Change Component Comment : Designator=Designator9 Old Comment=Comment New Comment=M2.5x10mm
+Change Component Comment : Designator=Designator10 Old Comment=Comment New Comment=M2.5x10mm
+Change Component Designator: OldDesignator=Designator2 NewDesignator=J1
+Change Component Designator: OldDesignator=Designator7 NewDesignator=MP1
+Change Component Designator: OldDesignator=Designator8 NewDesignator=MP2
+Change Component Designator: OldDesignator=Designator9 NewDesignator=MP3
+Change Component Designator: OldDesignator=Designator10 NewDesignator=MP4
+Change component parameters: Designator = "J1"; Footprint = "615064243321"; UniqueID = "\DGAUHBCL\XNQIXBUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Compliance"; Value = "Leadfree/RoHS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/615064243321.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Entrance"; Value = "Horizontal"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to85degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "615064243321"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "615064243321"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "8P8C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Port"; Value = "2x4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "1.5A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "1000VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "120VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP1"; Footprint = "9774100151"; UniqueID = "\DGAUHBCL\ACLKDIBV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/9774100151.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "9774100151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP2"; Footprint = "9774100151"; UniqueID = "\DGAUHBCL\YEBKAPME"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/9774100151.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "9774100151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP3"; Footprint = "9774100151"; UniqueID = "\DGAUHBCL\KZLTDQTI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/9774100151.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "9774100151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MP4"; Footprint = "9774100151"; UniqueID = "\DGAUHBCL\VWFEOFNI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/em/datasheet/9774100151.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Diameter"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Inner Thread Length"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Steel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 to +150degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Outer Diameter"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "9774100151"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Surface"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thread"; Value = "M2.5"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=U_RPI 3 Member=Component J1 615064243321
+Added Member To Class: ClassName=U_RPI 3 Member=Component MP1 M2.5x10mm
+Added Member To Class: ClassName=U_RPI 3 Member=Component MP2 M2.5x10mm
+Added Member To Class: ClassName=U_RPI 3 Member=Component MP3 M2.5x10mm
+Added Member To Class: ClassName=U_RPI 3 Member=Component MP4 M2.5x10mm

@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=GPIO[1..16] Member=IN29
+Removed Member From Class: ClassName=GPIO[1..16] Member=IN30
+Removed Member From Class: ClassName=GPIO[1..16] Member=IN31
+Removed Member From Class: ClassName=GPIO[1..16] Member=IN32
+Added Member To Class: ClassName=GPIO[1..16] Member=Element[13]: GPIO
+Added Member To Class: ClassName=GPIO[1..16] Member=Element[14]: GPIO
+Added Member To Class: ClassName=GPIO[1..16] Member=Element[15]: GPIO
+Added Member To Class: ClassName=GPIO[1..16] Member=Element[16]: GPIO

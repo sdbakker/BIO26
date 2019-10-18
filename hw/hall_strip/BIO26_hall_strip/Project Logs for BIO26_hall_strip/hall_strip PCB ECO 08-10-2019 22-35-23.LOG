@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=HALL_EXT Pin=J2-2
+Removed Pin From Net: NetName=GPIO_EXT Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GPIO_EXT Pin=J2-3
+Added Pin To Net: NetName=HALL_EXT Pin=J2-5
+Added Pin To Net: NetName=VCC Pin=J2-6
+Added Member To Class: ClassName=HALL_L23 Member=Component U1_HALL_L23 (U1) AH1802 / TLE4913
+Added Member To Class: ClassName=HALL_L24 Member=Component U1_HALL_L24 (U1) AH1802 / TLE4913

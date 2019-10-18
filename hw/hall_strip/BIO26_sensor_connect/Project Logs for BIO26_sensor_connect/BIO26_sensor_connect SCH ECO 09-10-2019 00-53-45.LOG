@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J?
+Change Pin NetName: Pin Designator = J?-3 Pin Name = 3 Old NetName = HALL_A New NetName = NetJ?_3
+Change Pin NetName: Pin Designator = J?-7 Pin Name = 7 Old NetName = GPIO_A New NetName = GND
+Change Pin NetName: Pin Designator = J?-8 Pin Name = 8 Old NetName = GPIO_B New NetName = GND
+NetLabel was created for Pin: Pin Designator = J?-10 Pin Name = 10 NetName = NetJ?_10
+NetLabel was created for Pin: Pin Designator = J?-12 Pin Name = 12 NetName = NetJ?_12

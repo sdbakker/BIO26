@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BIO26_pishield.PrjPcb]
+   Generated File[BIO26_pishield.TXT]
+   Generated File[BIO26_pishield.LDP]
+   Generated File[BIO26_pishield.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:07:08 On 10/10/2019

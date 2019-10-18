@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=BIO26_hall_strip_mb.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\BIO26_hall_strip\BIO26_hall_strip.PrjPcb
+Record=SubProject|SourceDocument=BIO26_hall_strip_mb.MbsDoc|ProjectPath=..\BIO26_hall_strip\BIO26_hall_strip.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BIO26_hall_strip_mb.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\BIO26_hall_strip\BIO26_hall_strip.PrjPcb
+Record=SubProject|SourceDocument=BIO26_hall_strip_mb.MbsDoc|ProjectPath=..\BIO26_hall_strip\BIO26_hall_strip.PrjPcb
+Record=DiagramHierarchy|SourceDocument=BIO26_hall_strip_mb.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\BIO26_sensor_connect\BIO26_sensor_connect.PrjPcb
+Record=SubProject|SourceDocument=BIO26_hall_strip_mb.MbsDoc|ProjectPath=..\BIO26_sensor_connect\BIO26_sensor_connect.PrjPcb

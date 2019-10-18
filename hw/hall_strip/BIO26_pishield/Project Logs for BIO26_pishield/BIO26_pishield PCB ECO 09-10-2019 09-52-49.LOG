@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+5 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=VIN Pin=Q1-1
+Removed Pin From Net: NetName=VIN Pin=Q1-2
+Removed Pin From Net: NetName=VIN Pin=Q1-3
+Removed Pin From Net: NetName=VIN Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Member From Class: ClassName=U_SMPS Member=C8
+Removed Member From Class: ClassName=U_SMPS Member=P3
+Removed Member From Class: ClassName=U_SMPS Member=Q1
+Removed Member From Class: ClassName=U_SMPS Member=R2
+Removed Member From Class: ClassName=U_SMPS Member=R3
+Removed Member From Class: ClassName=U_SMPS Member=U4
+Added Member To Class: ClassName=U_RPI Hat ID Member=Component C1 0.1uF
+Added Member To Class: ClassName=U_SMPS Member=Component C2 470uF
+Added Member To Class: ClassName=U_RPI Hat ID Member=Component P1 5-146280-2
+Added Member To Class: ClassName=U_SMPS Member=Component P2 66200221022
+Added Member To Class: ClassName=U_RPI Hat ID Member=Component R1 3.9K
+Added Member To Class: ClassName=U_SMPS Member=Component R4 100k
+Added Member To Class: ClassName=U_SMPS Member=Component R5 1K

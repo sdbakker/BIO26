@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : D:\Dev\Commonplace\BIO26\hall_strip\BIO26_hall_strip\hall_strip.PcbDoc
+Date         : 07/10/2019
+Time         : 23:52:23
+Time Elapsed : 00:00:00

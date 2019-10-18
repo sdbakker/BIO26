@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Component Designator: OldDesignator=Q? NewDesignator=Q7
+Added Member To Class: ClassName=hall_strip Member=Component Q2 MMBTA42LT1G
+Added Member To Class: ClassName=hall_strip Member=Component Q3 MMBTA42LT1G
+Added Member To Class: ClassName=hall_strip Member=Component Q4 MMBTA42LT1G
+Added Member To Class: ClassName=hall_strip Member=Component Q5 MMBTA42LT1G
+Added Member To Class: ClassName=hall_strip Member=Component Q6 MMBTA42LT1G
+Added Member To Class: ClassName=hall_strip Member=Component Q7 MMBTA42LT1G

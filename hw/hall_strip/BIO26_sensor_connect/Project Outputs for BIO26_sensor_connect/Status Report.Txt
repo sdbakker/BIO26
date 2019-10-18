@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BIO26_sensor_connect.PrjPcb]
+   Generated File[BIO26_sensor_connect.TXT]
+   Generated File[BIO26_sensor_connect.LDP]
+   Generated File[BIO26_sensor_connect.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:41:46 On 10/10/2019

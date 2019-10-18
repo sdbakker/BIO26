@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=P1-MP1
+Removed Pin From Net: NetName=GND Pin=P1-MP2
+Change Component DesignItemId : Designator=P1 Old DesignItemId=CMP-1755-00001-1 New DesignItemId=CMP-1502-01059-1
+Change Component Footprint: Designator=P1 Old Footprint=JST- S2B-PH-SM4-TB(LF)(SN)-2_V New Footprint=61300211021
+Change Component Comment : Designator=P1 Old Comment=S2B-PH-SM4-TB(LF)(SN) New Comment=61300211021
+Change Component Description : Designator=P1 Old Description=Male Header, Pitch 2 mm, 1 x 2 Position, Height 5.5 mm, -25 to 85 degC, RoHS, Tape and Reel New Description=THT Angled Pin Header WR-PHD, Pitch 2.54 mm, Single Row, 2 pins
+Change component parameters: Designator = "P1"; Footprint = "61300211021"; UniqueID = "\KOMKBLFW\HWXNUJDW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11021.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "61300211021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61300211021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
